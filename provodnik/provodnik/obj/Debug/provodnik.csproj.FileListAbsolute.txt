@@ -1,0 +1,9 @@
+h:\users\denis\documents\visual studio 2015\Projects\provodnik\provodnik\bin\Debug\provodnik.exe.config
+h:\users\denis\documents\visual studio 2015\Projects\provodnik\provodnik\bin\Debug\provodnik.exe
+h:\users\denis\documents\visual studio 2015\Projects\provodnik\provodnik\bin\Debug\provodnik.pdb
+h:\users\denis\documents\visual studio 2015\Projects\provodnik\provodnik\obj\Debug\provodnik.csprojResolveAssemblyReference.cache
+h:\users\denis\documents\visual studio 2015\Projects\provodnik\provodnik\obj\Debug\provodnik.Form1.resources
+h:\users\denis\documents\visual studio 2015\Projects\provodnik\provodnik\obj\Debug\provodnik.Properties.Resources.resources
+h:\users\denis\documents\visual studio 2015\Projects\provodnik\provodnik\obj\Debug\provodnik.csproj.GenerateResource.Cache
+h:\users\denis\documents\visual studio 2015\Projects\provodnik\provodnik\obj\Debug\provodnik.exe
+h:\users\denis\documents\visual studio 2015\Projects\provodnik\provodnik\obj\Debug\provodnik.pdb
